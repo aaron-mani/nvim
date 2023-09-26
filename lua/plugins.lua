@@ -26,7 +26,7 @@ local plugins = {
   },
   "nvim-tree/nvim-tree.lua",
   "nvim-tree/nvim-web-devicons",
-  "max397574/better-escape.nvim",
+  "max397574/better-escape.nvim", -- use  jj/jk/kj instead to escape insert mode 
   {
     "nvim-lualine/lualine.nvim",
     requires = { "nvim-tree/nvim-web-devicons", opt = true }
